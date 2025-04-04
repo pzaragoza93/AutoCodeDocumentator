@@ -1,1 +1,1 @@
-SystemOrganization addCategory: #BaselineOfAutoCodeDocumentation!
+self packageOrganizer ensurePackage: #BaselineOfAutoCodeDocumentation withTags: #()!
