@@ -1,0 +1,22 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "AutoCodeDocumentation",
+	"classinstvars" : [
+		"api",
+		"apikey",
+		"host",
+		"version"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"packageToBeAnalyzed",
+		"apiKey",
+		"host",
+		"mooseModel",
+		"selectedPackages"
+	],
+	"name" : "AutoCodeDocumentator",
+	"type" : "normal"
+}

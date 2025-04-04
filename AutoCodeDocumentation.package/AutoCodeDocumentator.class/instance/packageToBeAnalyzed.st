@@ -1,0 +1,3 @@
+accessing
+packageToBeAnalyzed
+^ packageToBeAnalyzed
